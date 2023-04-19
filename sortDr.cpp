@@ -1,4 +1,5 @@
-// This program is a sorting algorithm tester.
+// Welcome This program is a sorting algorithm tester.
+
 
 // Input are sorting algorithm names plus Refresh for resetting the
 //   values to be sorted to their previous values and Reinitialize for
